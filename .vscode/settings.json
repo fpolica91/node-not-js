@@ -1,0 +1,11 @@
+{
+  "files.watcherExclude": {
+    "**/.hg/store/**": false,
+    "**/node_modules/**": false
+  },
+  "liveSassCompile.settings.excludeList": [
+    
+  ".vscode/**",
+    ".vscode/**"
+  ]
+}
